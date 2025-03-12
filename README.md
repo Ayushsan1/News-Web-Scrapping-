@@ -14,6 +14,7 @@ This project scrapes the **top 10 news headlines** from the Hindustan Times webs
 - Flask
 - BeautifulSoup
 - Requests
+- thread
 
 ## Installation
 ### 1. Clone the Repository
